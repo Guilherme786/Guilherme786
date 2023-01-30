@@ -5,6 +5,4 @@
 # Alguns modos de entra em contato comigo:
 
 
-[![Outlook](https://img.shields.io/badge/guilhermedcarvalho.a@gmail.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=guilhermedcarvalho.a@gmail.com)](mailto:guilhermedcarvalho.a@gmail.com)
-
 [![Gmail Badge](https://img.shields.io/badge/-guilhermedcarvalho.a@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xrexv158925lpo@gmail.com)](mailto:guilhermedcarvalho.a@gmail.com) 
