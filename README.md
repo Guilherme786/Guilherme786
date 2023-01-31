@@ -2,7 +2,6 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme786&hide=html&layout=compact&theme=highcontrast)](https://github.com/Guilherme786/)
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username==Guilherme786&hide=html&layout=compact=true&theme=default)](https://github.com/=Guilherme786/)
 
 # Follow me:
 
