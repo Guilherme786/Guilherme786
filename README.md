@@ -1,8 +1,11 @@
-[![iuricode](https://github-readme-stats.vercel.app/api?username=Guilherme786&theme=highcontrast)](https://github.com/Guilherme786/)
+## My GitHub stats
 
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme786&hide=html&layout=compact&theme=highcontrast)](https://github.com/Guilherme786/)
-
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme786&layout=compact&theme=dracula&hide=java,scss,gdscript" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme786&count_private=true&show_icons=true&theme=dracula" />
+</a>
 # Follow me:
 
 
