@@ -1,10 +1,10 @@
 ## My GitHub stats
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme786&layout=compact&theme=tokyonight&hide=java,scss,gdscript" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Guilherme786&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
 </a>
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Guilherme786&count_private=true&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme786&layout=compact&langs_count=7&theme=nightowl"/>
 </a>
 # Follow me:
 
